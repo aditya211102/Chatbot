@@ -6,7 +6,7 @@ import numpy as np  # Import numpy for generating random data
 import matplotlib.pyplot as plt
 
 # Your Google Gemini API key
-api_key = 'AIzaSyDcavMnxK8otspxPiKB0iUYf_4ASohiWiM'
+api_key = 'AIzaSyDcavMnxK8ot******M'
 
 # The URL for the Google Gemini API endpoint
 api_url = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent'
